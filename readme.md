@@ -1,10 +1,10 @@
 
 ### IMAGES and VIDEOS:
-1. [https://creator.nightcafe.studio](https://t.co/s3ThQnt1M5) (image and video generation)
+1. https://creator.nightcafe.studio (image and video generation)
 
-2. [https://openai.com/dall-e-2/](https://t.co/lHmq2vgTsb) (creates, draws, adds objects to the image, registration by non-Russian number)
+2. https://openai.com/dall-e-2/ (creates, draws, adds objects to the image, registration by non-Russian number)
 
-3. [https://deepdreamgenerator.com](https://t.co/VJIiUqXQmN) (Generates realistic images with preset styles)
+3. https://deepdreamgenerator.com (Generates realistic images with preset styles)
 
 4. https://artbreeder.com (generation of images in large quantities, sorting by folders)
 
