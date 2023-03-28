@@ -1,163 +1,148 @@
 
-### ИЗОБРАЖЕНИЯ и ВИДЕО:
-1. [https://creator.nightcafe.studio](https://t.co/s3ThQnt1M5) (генерация изображений и видосов)
+### IMAGES and VIDEOS:
+1. [https://creator.nightcafe.studio](https://t.co/s3ThQnt1M5) (image and video generation)
 
-2. [https://openai.com/dall-e-2/](https://t.co/lHmq2vgTsb) (создает, дорисовывает, добавляет объекты на изображение, регистрация по не рус. номеру)
+2. [https://openai.com/dall-e-2/](https://t.co/lHmq2vgTsb) (creates, draws, adds objects to the image, registration by non-Russian number)
 
-3. [https://deepdreamgenerator.com](https://t.co/VJIiUqXQmN) (создание реалистичных изображений в заданных стилях)
+3. [https://deepdreamgenerator.com](https://t.co/VJIiUqXQmN) (Generates realistic images with preset styles)
 
-4. https://artbreeder.com (генерация изображений в большом количестве,сортировка по папкам)
+4. https://artbreeder.com (generation of images in large quantities, sorting by folders)
 
-5. https://aiportraits.com (создание похожего портрета в хорошем качестве)
+5. https://aiportraits.com (create a similar portrait in good quality)
 
 6. https://deepai.org
 
-7. https://starryai.com (генератор nft) 
+7. https://starryai.com (nft generator)
 
-8. https://fotor.com (nft-искусство)
+8. https://fotor.com (nft art)
 
-9. https://runwayml.com (монтаж и редактор видео, анимация и 3d-модели)
+9. https://runwayml.com (video editing and editor, animation and 3d models)
 
-10. https://wombo.art (сюррреалистичные дизайны, превращает фото в мультфильмы)
+10. https://wombo.art (surreal designs, turns photos into cartoons)
 
-11. https://images.ai (классика)
+11. https://images.ai (classic)
 
-12. https://thispersondoesnotexist.com (генерирует портрет несуществующего человека)
+12. https://thispersondoesnotexist.com (generates a portrait of a non-existent person)
 
-13. http://smartsketch.xyz (превращает схематичные изображения в произведения искусства) 
+13. http://smartsketch.xyz (Turns sketchy images into works of art)
 
-14. https://looka.com и https://logoai.com (рисует логотипы)
+14. https://looka.com and https://logoai.com (draws logos)
 
-15. https://artsexperiments.withgoogle.com/poemportraits/ (накладывает текст на портрет)
+15. https://artsexperiments.withgoogle.com/poemportraits/ (overlays text on portrait)
 
-16. http://benzin.io и https://remove.bg и https://retoucher.online/ru (удаляет фон с фотографии)
+16. http://benzin.io and https://remove.bg and https://retoucher.online/ru (remove background from photo)
 
-17. https://colorize.cc (раскрашивает чб фотографии)
+17. https://colorize.cc (colorizes bw photos)
 
-18. https://dream.ai/create и https://hotpot.ai/art-generator (картинки по описанию, без регистрации)
+18. https://dream.ai/create and https://hotpot.ai/art-generator (pictures according to the description, without registration)
 
-19. https://reflect.tech (заменяет лицо на фото)
+19. https://reflect.tech (replaces the face in the photo)
 
-20. https://stablediffusionweb.com (генерирует картинки по текстовому описанию, без регистрации)
+20. https://stablediffusionweb.com (generates pictures according to text description, without registration)
 
-21. https://midjourney.com/home/ (аватары в разном стиле, объединяет картинки в одну, генерирует по текстовому описанию)
+21. https://midjourney.com/home/ (avatars in different styles, combines pictures into one, generates according to a text description)
 
-22. https://ostagram.me (соединяет в одну стили разных картин)
+22. https://ostagram.me (combines styles of different paintings into one)
 
-23. http://gaugan.org/gaugan2/ (картинки на основе эскизы и по текстовому описанию)
+23. http://gaugan.org/gaugan2/ (pictures based on thumbnails and text description)
 
-24. https://myheritage.com/deep-nostalgia (анимирует фотографии)
+24. https://myheritage.com/deep-nostalgia (animates photos)
 
-25. https://sketch.metademolab.com (оживляет скетчи и детские рисунки)
+25. https://sketch.metademolab.com (brings sketches and children's drawings to life)
 
-26. https://imglarger.com и https://icons8.ru/upscaler и https://vanceai.com и  https://waifu2x.udp.jp/index.ru.html и https://bigjpg.com и https://letsenhance.io (улучшает качество изображений)
+26. https://imglarger.com and https://icons8.ru/upscaler and https://vanceai.com and https://waifu2x.udp.jp/index.ru.html and https://bigjpg. com and https://letsenhance.io (improves image quality)
 
-27. https://lexica.art (вся ai-графика)
+27. https://lexica.art (all ai graphics)
 
-28. https://vidyo.ai (делает из видео тиктоки, рилсы и коротюльки для ютюба)
+28. https://vidyo.ai (makes tiktoks, rills and shorts for youtube out of videos)
 
-29. https://beta.tome.app и https://beautiful.ai и https://piggy.to (создание презентаций с красочными слайдами на любую тему по текстовому запросу)
+29. https://beta.tome.app and https://beautiful.ai and https://piggy.to (create presentations with colorful slides on any topic by text request)
 
-30. https://creatosaurus.io (вообще всё в одном месте) 
+30. https://creatosaurus.io (everything in one place)
 
-31. https://rudalle.ru (нейронка от сбера)
+31. https://rudalle.ru (neuron from Sberbank)
 
-32. https://craiyon.com (генерит 9 картинок из 1 изображения в один клик, без регистрации)
+32. https://craiyon.com (generates 9 pictures from 1 image in one click, without registration)
 
-33. https://prisma-ai.com/lensa (забытая классика)
+33. https://prisma-ai.com/lensa (a forgotten classic)
 
-34. https://h5.tu.qq.com/web/ai-2d/cartoon/index (превращает фото в аниме)
+34. https://h5.tu.qq.com/web/ai-2d/cartoon/index (turns photo into anime)
 
-35. https://uizard.io (делает макет сайта по наброску от руки)
+35. https://uizard.io (does the layout of the site from a freehand sketch)
 
-36. http://goart.fotor.com (стилизует фотографию под известные портреты или картины)
+36. http://goart.fotor.com (stylizes a photo as famous portraits or paintings)
 
-37. http://deepangel.media.mit.edu (удаляет с изображения людей или объекты)
+37. http://deepangel.media.mit.edu (removes people or objects from the image)
 
-38. https://experiments.withgoogle.com/cartoonify (превращает фотографию в мультяшку)
+38. https://experiments.withgoogle.com/cartoonify (turns a photo into a cartoon)
 
-39. https://fusionbrain.ai (всё на русском, бесплатно и без регистрации)
+39. https://fusionbrain.ai (all in Russian, free and without registration)
 
-40. https://dezgo.com (генерация картинок без цензуры)
+40. https://dezgo.com (uncensored image generation)
 
-41. https://mage.space и https://avyn.com (обычная понятная удобная генерация картинок, без ограничений)
+41. https://mage.space and https://avyn.com (the usual understandable convenient image generation, without restrictions)
 
-42. http://cvl-demos.cs.nott.ac.uk/vrn/ (делает из 2D в 3D)
+42. http://cvl-demos.cs.nott.ac.uk/vrn/ (does 2D to 3D)
 
-43. https://wonderdynamics.com (создает кино, одобрено Спилбергом)
+43. https://wonderdynamics.com (creates movies, endorsed by Spielberg)
 
-44. http://photoai.io (очень продвинутый фоторедактор, на лету меняет фон и одежду у моделей)
+44. http://photoai.io (very advanced photo editor, changes the background and clothes of models on the fly)
 
-45. https://tattoosai.com (генерит дизайн татуировок)
+45. https://tattoosai.com (generates tattoo designs)
 
-46. https://github.com/microsoft/visual-chatgpt - Visual ChatGPT — нейронка позволяет редактировать изображения прямо в чате. Например, удаляет любые объекты, меняет их цвет, знает, какие предметы на фотке. Запоминает контекст и хорошо редачит. Конечно, можно генерировать пикчи по любому запросу
+46. https://github.com/microsoft/visual-chatgpt - Visual ChatGPT - neuron allows you to edit images directly in the chat. For example, it removes any objects, changes their color, knows what objects are in the photo. Remembers the context and edits well. Of course, you can generate pictures for any request
 
     
 
 
-### ТЕКСТ И ДАННЫЕ:
-1. https://books.google.com/talktobooks/ (отвечает цитатами из книг)
-2. https://yandex.ru/lab/yalm (дописывает текст)
-3. https://smartwriter.ai (создает качественные тексты и ответы, продажи и маркетинг)
-4. https://grammarly.com (лучшее для англоязычной переписки)
-5. https://deepl.com/translator-mobile (ai-переводчик)
-6. https://analisa.io (аналитика для социальных сетей)
-7. https://texts.com (все мессенджеры в одном окне)
-8. https://yandex.ru/autopoet/ (стихи от яндекса)
-9. https://app.inferkit.com/demo (осмысленные тексты на вашей основе)
-10. 10. https://smodin.io (качественные тексты по заголовку: сочинения, статьи)
-11. https://huggingface.co/tasks/text-generation и https://huggingface.co/bigscience/bloom (очень качественная работа с текстом)
-12. https://anyword.com (удобно, короткие посты и статьи, бесплатно 7 дней)
-13. https://namelix.com (нейминг, придумывает название для ваших идей и бизнесов по ключевым словам)
-14. https://smodin.io (качественные тексты по заголовку: сочинения, статьи)
-15. https://huggingface.co/tasks/text-generation и https://huggingface.co/bigscience/bloom (очень качественная работа с текстом)
-16. 16. https://anyword.com (удобно, короткие посты и статьи, бесплатно 7 дней)
-17. https://namelix.com (нейминг, придумывает название для ваших идей и бизнесов по ключевым словам)
-18. 18. http://t.me/ChatGPT_WeeziBot (бот в телеграмме, понимает русский, отвечает на вопросы, пишет короткие посты и статьи по заголовку)
-19. http://ReText.ai - кайф
-20. https://gerwin.io/ru (русская версия, бесплатно, без регистрации)
+### TEXT AND DATA:
+1. https://books.google.com/talktobooks/ (answers with quotes from books)
+2. https://yandex.ru/lab/yalm (adds text)
+3. https://smartwriter.ai (creates quality texts and responses, sales and marketing)
+4. https://grammarly.com (best for English-language correspondence)
+5. https://deepl.com/translator-mobile (ai-translator)
+6. https://analisa.io (analytics for social networks)
+7. https://texts.com (all messengers in one window)
+8. https://yandex.ru/autopoet/ (poems from Yandex)
+9. https://app.inferkit.com/demo (meaningful texts based on you)
+10. 10. https://smodin.io (quality texts by title: essays, articles)
+11. https://huggingface.co/tasks/text-generation and https://huggingface.co/bigscience/bloom (very good text work)
+12. https://anyword.com (convenient, short posts and articles, free for 7 days)
+13. https://namelix.com (naming, comes up with a name for your ideas and businesses based on keywords)
+14. https://smodin.io (quality texts by title: essays, articles)
+15. https://huggingface.co/tasks/text-generation and https://huggingface.co/bigscience/bloom (very good text work)
+16. 16. https://anyword.com (convenient, short posts and articles, free for 7 days)
+17. https://namelix.com (naming, comes up with a name for your ideas and businesses based on keywords)
+18. 18. http://t.me/ChatGPT_WeeziBot (telegram bot, understands Russian, answers questions, writes short posts and articles by title)
+19. http://ReText.ai - high
+20. https://gerwin.io/ru (Russian version, free, without registration)
 
 
 
-### ГОЛОС И ЗВУКИ:
+### VOICE AND SOUNDS:
 
-1. https://voice.headliner.app (озвучка голосом известных людей)
-2. https://imaginarysoundscape.net (озвучка фотографий)
-3. https://riffusion.com (генерирует музыку по текстовому описанию)
-4. https://podcast.adobe.com/enhance (повышает качество аудио до уровня студийного)
-5. https://otter.ai (превращает запись звонков в текст, удобно для телефонных переговоров)
-6. https://experiments.withgoogle.com/sound-maker (создание собственных звуков)
-7. https://experiments.withgoogle.com/scribbling-speech (превращает речь в анимацию в реальном времени)
+1. https://voice.headliner.app (Voice of famous people)
+2. https://imaginarysoundscape.net (photo voice over)
+3. https://riffusion.com (generates music from text description)
+4. https://podcast.adobe.com/enhance (upgrades audio quality to studio level)
+5. https://otter.ai (turns call recording into text, convenient for telephone conversations)
+6. https://experiments.withgoogle.com/sound-maker (creating your own sounds)
+7. https://experiments.withgoogle.com/scribbling-speech (turns speech into real-time animation)
 8. https://www.d-id.com/ Digital People Text-to-Video
 9. https://beta.elevenlabs.io/ realistic and versatile AI speech software
 
 
 
-### ИНТЕРЬЕР:
+### INTERIOR:
 
-http://roomGPT.io — нейросеть генерит дизайн интерьера. Если давно планируете обновить ремонт квартиры, то этот сервис вам точно поможет. Просто нужно загрузить фото комнаты, а нейронка придумает за пару секунд новый дизайн в выбранном вами стиле. Всё бесплатно
+http://roomGPT.io - neural network generates interior design. If you have been planning to renovate your apartment for a long time, then this service will definitely help you. You just need to upload a photo of the room, and the neuron will come up with a new design in a couple of seconds in the style you have chosen. Everything is free
 
 
 
-### PORNO/ЭРОТИКА:
+### PORNO/EROTIC:
 
 1. https://pornpen.ai
 2. https://civitai.com
 
 
 
-
-
-
-Сборники/обзоры:
-https://rb.ru/story/ai-art-generators/
-https://rb.ru/list/the-most-interesting-neural-networks/
-https://rb.ru/opinion/ai-pr/
-https://rb.ru/opinion/23-neural-networks/
-https://rb.ru/story/10-generatorov-video/
-https://rb.ru/story/ai-creative-instruments/
-https://pikabu.ru/story/21_sayt_gde_mozhno_protestirovat_rabotu_neyrosetey_6697786
-https://vc.ru/u/624385-vetas-iz-octoweb/585040-luchshie-neyroseti-2023-goda
-https://pikabu.ru/story/ailib__katalog_bolee_900_neyrosetey_9972307
-https://clc.to/AI_Tool_Master_List
-https://aicyclopedia.com
