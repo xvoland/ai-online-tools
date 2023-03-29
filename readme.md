@@ -146,3 +146,29 @@ http://roomGPT.io - neural network generates interior design. If you have been p
 
 
 
+## Liked it?
+Hope you liked this project, don't forget to give it a star ⭐.
+
+
+## Donation & Sponsors
+
+I’ll continue to work and improve the script features regardless of the outcome of funding, because it's rewarding to see that people are using it and it does the job for them. Still I would appreciate your support in covering some of the expenses with the domain hosting and programming hours which are taken from my family time.
+
+[Donate any amount for my projects][paypal]
+
+
+<a href='https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9D4YBRWH8QURU'><img alt='Click here to lend your support to Extractor and make a donation!' src='https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif' border='0' /></a>
+
+
+## License
+
+Author [Vitalii Tereshchuk][home]. &copy; 2023, MIT license.
+Or welcome to my [YouTube channel][youtube]
+
+[home]: http://dotoca.net
+[npm]: https://www.npmjs.com/package/gulp-xv-webp-html
+[paypal]: https://paypal.me/xvoland
+[youtube]: https://youtube.com/xvoland
+[instagram]: https://www.instagram.com/xvoland/
+[hosting]: https://goo.gl/3KpxQI
+[opencollective]: https://opencollective.com/extract/backers/0/website
